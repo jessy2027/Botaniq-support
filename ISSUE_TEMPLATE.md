@@ -19,7 +19,7 @@ Décrivez ce que vous attendiez comme comportement.
 Ajoutez des captures d’écran si nécessaire.
 
 ### Environnement
-- Système d’exploitation (Windows, macOS, Linux, etc.)
+- Système d’exploitation (IOS, Android)
 - Version de l’application
 - Autres logiciels impliqués
 
